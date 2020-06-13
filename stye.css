@@ -1,0 +1,36 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 7px;
+  border-color: grey;
+
+}
+img{
+  height: 170px;
+  border-radius: 100%
+}
+h1{
+  color: #66BFBF;
+
+  font-variant: small-caps;
+  font-family: Lucida Handwriting;
+  background-color: white;
+
+}
+h2{
+  color: #66BFBF;
+  font-style: oblique;
+  font-family: cursive;
+  background-color: white;
+
+}
+ol:hover{
+  background-color: white;
+}
+.abcd{
+  font-family: sans-serif;
+}
